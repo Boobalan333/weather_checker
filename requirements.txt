@@ -1,6 +1,6 @@
-
-Python 
-FastAPI 
-OpenWeather API 
-Groq AI 
-MCP (Model Context Protocol / Tool Layer)
+fastapi
+uvicorn
+httpx
+python-dotenv
+openai
+mcp
